@@ -1,6 +1,6 @@
 package gb1;
 
-public class Gb1{ 
+    public class Gb1 { 
 
    public static void main(String[] args) { 
 
@@ -17,7 +17,7 @@ public class Gb1{
         System.out.println("Contador: " + contador); 
 
         
-        /* int[] numeros = new int[5]; 
+            /* int[] numeros = new int[5]; 
 
                 numeros[0] = 3; 
 
@@ -33,7 +33,7 @@ public class Gb1{
                 System.out.println("" + numeros[3]);
                 System.out.println("" + numeros[4]);
                 
-               */
+             */
         
                 int[] numeros = new int[5];         
 
